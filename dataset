@@ -1,0 +1,6 @@
+Dataset
+
+The dataset used in this project is the Synthetic Financial Datasets for Fraud Detection (PaySim), obtained from Kaggle.
+
+It contains simulated financial transactions used to investigate fraudulent activity and transaction patterns.
+Data source: https://www.kaggle.com/datasets/ealaxi/paysim1 
